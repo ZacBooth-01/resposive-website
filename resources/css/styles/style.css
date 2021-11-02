@@ -32,7 +32,7 @@
     align-items: center;
     display: flex;
     align-items: center;
-    justify-content: end;
+    justify-content: right;
     
 }
 
@@ -64,7 +64,7 @@
     .navbar-links {
         height: 100px;
         padding-left: 1px;
-        justify-content: end;
+        justify-content: right;
     }
 
     .navbar-links li {
