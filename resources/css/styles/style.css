@@ -329,10 +329,16 @@
     color: red;
 }
 
+#song .image-songp {
+    margin-bottom: 10px;
+}
+
 #song .image-song img {
     height: 300px;
     width: 300px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
 }
 
 @media only screen and (max-width: 1350px) {
@@ -345,3 +351,5 @@
         margin-top: 10px;
     }
 }
+
+
